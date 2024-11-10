@@ -1,0 +1,12 @@
+/* src/App.css */
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #f7f7f7;
+  overflow-y: scroll;
+}
+
+.App {
+  position: relative;
+  height: 200vh; /* Ensures there's enough scroll space */
+}
